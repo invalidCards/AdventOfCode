@@ -1,2 +1,2 @@
-# AdventOfCode2021
-Advent of Code 2021, using Deno
+# AdventOfCode
+Advent of Code
